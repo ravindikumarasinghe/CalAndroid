@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     EditText n1,n2;
 
     int num1, num2;
+    float result;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
