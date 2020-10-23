@@ -47,4 +47,18 @@
         app:layout_constraintVertical_bias="0.593" />
 
 
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="58dp"
+        android:layout_height="60dp"
+        android:text="+"
+        app:backgroundTint="#C6B4B4"
+        app:iconTint="#CFC3C3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.155"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.593" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
