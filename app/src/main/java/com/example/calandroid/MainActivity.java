@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                num1 = Integer.parseInt(n1.getText().toString());
+
             }
         });
 
