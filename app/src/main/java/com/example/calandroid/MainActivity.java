@@ -29,8 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         rs = findViewById(R.id.txtResult);
 
-        n1 = findViewById(R.id.num1);
-        n2 = findViewById(R.id.num2);
+        n1 = findViewById(R.id.number1);
+        n2 = findViewById(R.id.number2);
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
