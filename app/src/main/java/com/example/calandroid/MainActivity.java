@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     TextView rs;
     EditText n1,n2;
 
+    int num1, num2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
