@@ -19,5 +19,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        b1 = findViewById(R.id.btnPlus);
+        b2 = findViewById(R.id.btnMin);
+        b3 = findViewById(R.id.btnMulti);
+        b4 = findViewById(R.id.btnDiv);
+
     }
 }
