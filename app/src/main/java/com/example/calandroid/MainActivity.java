@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
                 num1 = Integer.parseInt(n1.getText().toString());
                 num2 = Integer.parseInt(n2.getText().toString());
 
+                result = num1+num2;
+
+
             }
         });
 
