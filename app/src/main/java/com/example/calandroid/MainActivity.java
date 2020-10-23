@@ -25,5 +25,11 @@ public class MainActivity extends AppCompatActivity {
         b3 = findViewById(R.id.btnMulti);
         b4 = findViewById(R.id.btnDiv);
 
+        rs = findViewById(R.id.txtResult);
+
+        n1 = findViewById(R.id.num1);
+        n2 = findViewById(R.id.num2);
+
+
     }
 }
