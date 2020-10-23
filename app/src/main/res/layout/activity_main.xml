@@ -39,8 +39,10 @@
         android:text="+"
         app:backgroundTint="#C6B4B4"
         app:iconTint="#CFC3C3"
-        tools:layout_editor_absoluteX="65dp"
-        tools:layout_editor_absoluteY="444dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
