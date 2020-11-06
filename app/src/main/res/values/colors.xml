@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="darkmagenta">#8B008B</color>
-    <color name="numgrey">	#808080</color>
+    <color name="numbergrey">	#808080</color>
     <color name="yellow">#ECC34B</color>
 </resources>
