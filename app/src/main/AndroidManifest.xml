@@ -3,6 +3,7 @@
     package="com.example.calandroid">
 
     <application
+        android:allowBackup="true"
 
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
