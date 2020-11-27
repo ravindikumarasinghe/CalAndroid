@@ -11,11 +11,11 @@
         android:theme="@style/Theme.CalAndroid">
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.ajgds.MAIN" />
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.yyyyyy" />
             </intent-filter>
         </activity>
-    </application>
+    </application>hh
 
-</manifest>
+</manifest>hjbwhqgj
